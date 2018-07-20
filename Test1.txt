@@ -1,0 +1,3 @@
+This is my text file.
+Let's test the functions.
+Learning a new repo known as GitHub.
